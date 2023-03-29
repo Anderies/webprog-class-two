@@ -1,5 +1,6 @@
-# Code Documentation of Web Programming Class by Anderies
+## Code Documentation of Web Programming Class by Anderies
 
+### Web Programming Course Outline:
 1. [Session 01 - Install Laravel](https://laravel.com/docs/10.x)
 2. [Session 02 - Route & View](https://github.com/Anderies/webprog-class-two/tree/master/coba-session-02)
 3. [Session 03 - Install Boostrap via Vite](https://github.com/Anderies/webprog-class-two/tree/master/coba-session-03)
