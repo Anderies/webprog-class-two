@@ -1,0 +1,31 @@
+.btn-boom{
+    background-color: black;
+}
+
+p{
+    font-size: 8px;
+}
+
+.bg-modify{
+    background-color: black!important;
+}
+
+.nav-link{
+    color: white;
+    opacity: 0.9;
+}
+
+.nav-link:hover{
+    color: pink;
+
+}
+
+.txt-profile{
+    font-size: 20px;
+    text-align: justify;
+}
+.txt-section{
+    font-size: 28px;
+    text-align: left;
+    font-weight: 800;
+}
