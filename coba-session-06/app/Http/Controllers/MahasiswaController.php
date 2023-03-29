@@ -7,18 +7,20 @@ use Illuminate\Http\Request;
 
 class MahasiswaController extends Controller
 {
-    //
-
-    public function filter(){
-        $mahasiswas = Mahasiswa::where('ipk','<','3')->orderBy('nama','desc')->get();
-        return view('tampil-mahasiswa', ['mahasiswas' => $mahasiswas]);
-    }
+    // checking object from Model Mahasiswa
     public function cekObject(){
         $mahasiswa = new Mahasiswa();
 
         dump($mahasiswa);
     }
 
+// Eloquent Read Query Example with condition of Selection and SORT
+    public function filter(){
+        $mahasiswas = Mahasiswa::where('ipk','<','3')->orderBy('nama','desc')->get();
+        return view('tampil-mahasiswa', ['mahasiswas' => $mahasiswas]);
+    }
+
+// Eloquent Insert Query Single Data
     public function insert(){
         $mahasiswa = new Mahasiswa;
 
@@ -30,14 +32,14 @@ class MahasiswaController extends Controller
 
         dump($mahasiswa);
     }
-//  Delete Data Base on with ID = 1
+//  Eloquent Delete Query Data by ID = 1
     public function delete(){
         $mahasiswa = Mahasiswa::find(1);
         $mahasiswa->delete();
 
         dump($mahasiswa);
     }
-//  Update Data Base on with ID = 1
+//  EloquentUpdate Query Data Base on with ID = 1
     public function update(){
         $mahasiswa = Mahasiswa::find(1);
         $mahasiswa->tanggal_lahir = '2001-01-01';
@@ -45,7 +47,7 @@ class MahasiswaController extends Controller
         $mahasiswa->save();
         dump($mahasiswa);
     }
-//
+// Eloquent Query Get all data
     public function allView(){
         $mahasiswas = Mahasiswa::all();
 
