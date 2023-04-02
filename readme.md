@@ -4,7 +4,7 @@
 1. [Session 01 - Install Laravel](https://laravel.com/docs/10.x)
 2. [Session 02 - Route & View](https://github.com/Anderies/webprog-class-two/tree/master/coba-session-02)
 3. [Session 03 - Install Boostrap via Vite](https://github.com/Anderies/webprog-class-two/tree/master/coba-session-03)
-4. [Session 04 - Blade Template Boilerplate] 
+4. [Session 04 - Blade Template Boilerplate] (https://github.com/Anderies/webprog-class-two/tree/master/boilerplate-session-04)
 5. [Session 04 - Blade Template]
 6. [Session 04 - SOA FastAPI x Laravel]
 5. [Session 05 - Controller and View](https://github.com/Anderies/webprog-class-two/tree/master/coba-session-05)
