@@ -9,9 +9,9 @@
 5. [Session 05 - Controller and View](https://github.com/Anderies/webprog-class-two/tree/master/coba-session-05)
 - [Session 05 - SOA FastAPI](https://github.com/Anderies/webprog-class-two/tree/master/supplement-session05-api)
 - [Session 05 - SOA Laravel](https://github.com/Anderies/webprog-class-two/tree/master/supplement-session-05)
-6. [Session 05b - Controller and View](https://github.com/Anderies/webprog-class-two/tree/master/coba-session-05b)
-7. [Session 06 - Eloquent and Migration](https://github.com/Anderies/webprog-class-two/tree/master/coba-session-06)
-
+- [Session 05b - Controller and View](https://github.com/Anderies/webprog-class-two/tree/master/coba-session-05b)
+6. [Session 06 - Eloquent and Migration](https://github.com/Anderies/webprog-class-two/tree/master/coba-session-06)
+7. [Session 07 - Table Relationship and Seeder Factory]
 
 ### 2. Requirements before Running Project
 1. Make sure to copy env.example file by
