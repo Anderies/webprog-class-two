@@ -1,0 +1,15 @@
+Buatlah sebuah website mengenai
+
+- University
+- UMKM
+- Hotel & Management 
+- Entertainment
+
+
+Yang dikumpulkan
+- Pitch Deck & Presentation (20%)
+- UI Design Figma (25%)
+- Technology (25%)
+- Github Commit History (10%)
+- Video (15%)
+- Social media (5%)
