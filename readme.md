@@ -11,7 +11,8 @@
 - [Session 05 - SOA Laravel](https://github.com/Anderies/webprog-class-two/tree/master/supplement-session-05)
 - [Session 05b - Controller and View](https://github.com/Anderies/webprog-class-two/tree/master/coba-session-05b)
 6. [Session 06 - Eloquent and Migration](https://github.com/Anderies/webprog-class-two/tree/master/coba-session-06)
-7. [Session 07 - Table Relationship and Seeder Factory]
+7. [Session 07 - Table Relationship and Seeder Factory](https://github.com/Anderies/webprog-class-two/tree/master/coba-session-07)
+- [Session 07 - Notion Tutorial](https://brash-sardine-1f6.notion.site/Session-07-Eloquent-Relationship-Seeder-Factory-b1515e7d63f7458f9d2d652c8e32cbd8)
 
 ### 2. Requirements before Running Project
 1. Make sure to copy env.example file by
