@@ -14,6 +14,8 @@
 7. [Session 07 - Table Relationship and Seeder Factory](https://github.com/Anderies/webprog-class-two/tree/master/coba-session-07)
 - [Session 07 - Notion Tutorial](https://brash-sardine-1f6.notion.site/Session-07-Eloquent-Relationship-Seeder-Factory-b1515e7d63f7458f9d2d652c8e32cbd8)
 8. [Session 07b - Best UTS](https://github.com/Anderies/webprog-class-two/tree/master/best_uts)
+9. [Session 08 - Form Validation, old Laravel Feature, Form CRUD](https://github.com/Anderies/webprog-class-two/tree/master/coba-session-08)
+
 
 ### 2. Requirements before Running Project
 1. Make sure to copy env.example file by
