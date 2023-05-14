@@ -61,6 +61,7 @@ class UserController extends Controller
         $client = new Client();
 
         // Make a POST request to the external API
+        // HTTP
         $response = $client->request('POST', "http://127.0.0.1:9090/sentiment?pos_text=$form_text", [
             'headers' => [
                 'Content-Type' => 'application/json',
