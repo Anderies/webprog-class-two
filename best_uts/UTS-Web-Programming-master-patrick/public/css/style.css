@@ -1,0 +1,142 @@
+.nav {
+    display: flex !important;
+    justify-content: center !important;
+}
+
+p, h4 {
+    margin: 0 !important;
+}
+
+.nav-item {
+    margin: 0 20px;
+}
+
+.nav-link {
+    color: black !important;
+    padding: 0 !important;
+}
+
+.greeting {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 20px;
+}
+
+.greet p {
+    font-weight: bolder;
+}
+
+.head {
+    top: 0;
+    background-color: #f6f6f6;
+    width: 100%;
+    height: 120px;
+    position: sticky;
+    z-index: 1000;
+}
+
+.foot {
+    width: 100%;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    position: sticky;
+}
+
+.foot p {
+    color: #f6f6f6;
+    font-size: 14px;
+}
+
+hr {
+    margin-top: 14px !important;
+    margin-bottom: 0px !important;
+    opacity: 0.75 !important;
+}
+
+.homeContent {
+    margin: 0px 10px;
+}
+
+.hc {
+    margin: 10px 0px;
+}
+
+.starNum {
+    display: flex;
+    align-items: center;
+}
+
+.starNum p {
+    font-size: large;
+}
+
+.star {
+    color: #C6A961;
+    margin-right: 5px;
+}
+
+.promoBox {
+    padding: 8px !important;
+}
+
+.coffeeBtn {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 15px;
+}
+
+.coffeeBtn button {
+    bottom: 60px;
+    position: fixed;
+}
+
+ul {
+    padding: 0 !important;
+    justify-content: center !important;
+}
+
+.tabs {
+    margin-top: 10px !important;
+    margin-bottom: 0px !important;
+}
+
+.card-content {
+    padding: 10px !important;
+}
+
+.coffeeContent {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.cc {
+    margin: 10px 10px;
+}
+
+.card {
+    width: 187px;
+}
+
+.transaction-title {
+    display: flex;
+    justify-content: center;
+}
+
+.trans-date {
+    margin-bottom: 5px !important;
+    margin-top: 5px;
+}
+
+.trans-item {
+    font-size: large;
+}
+
+.trans-detail {
+    margin-top: 20px;
+}

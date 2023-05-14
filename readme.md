@@ -40,4 +40,24 @@ pip install fastapi
 pip install transformers
 ```
 
+### 4. COMMAND NEEDED TO RUN BEST_UTS
+```
+composer install
+npm install
+copy .env.example .env
+php artisan migrate
+php artisan db:seed
+```
+
+### 5. IF ERROR OCCURED DURING MIGRATION or Seeding YOU CAN DO 
+before doing command do this:
+```
+php artisan c:cache
+```
+
+error DB doesn't exit
+```
+copy exact database name from env then create exact db name in phpmyadmin DB 
+```
+
 
