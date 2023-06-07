@@ -15,7 +15,11 @@
 - [Session 07 - Notion Tutorial](https://brash-sardine-1f6.notion.site/Session-07-Eloquent-Relationship-Seeder-Factory-b1515e7d63f7458f9d2d652c8e32cbd8)
 - [Session 07b - Best UTS](https://github.com/Anderies/webprog-class-two/tree/master/best_uts)
 8. [Session 08 - Form Validation, old Laravel Feature, Form CRUD](https://github.com/Anderies/webprog-class-two/tree/master/coba-session-08)
-
+9. [Session 09 - Collection]
+10. [Session 10 - Localization]
+11. [Session 11 - Session & Middleware]
+12. [Session 12 - Authentication]
+13. [Session 13 - Project Presentation]
 
 ### 2. Requirements before Running Project
 1. Make sure to copy env.example file by
