@@ -53,7 +53,7 @@ class MahasiswaController extends Controller
 
     public function store(Request $request){
         $validateData = $request->validate([
-            'nim' => 'required|size:8',
+            'nim' => 'required|size:10',
             'nama' => 'required|min:3|max:50',
             'email' => 'required|email',
             'jenis_kelamin' => 'required|in:P,L',
@@ -85,7 +85,7 @@ class MahasiswaController extends Controller
 
     public function update(Request $request, Mahasiswa $mahasiswa){
         $validateData = $request->validate([
-            'nim' => 'required|size:8|unique:mahasiswas',
+            'nim' => 'required|size:10|unique:mahasiswas',
             'nama' => 'required|min:3|max:50',
             'email' => 'required',
             'jenis_kelamin' => 'required|in:P,L',

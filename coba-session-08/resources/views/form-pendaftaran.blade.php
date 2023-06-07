@@ -53,7 +53,7 @@ dump($errors);
                         <label for="">Jenis Kelamin</label>
                         <div class="form-check form-check-inline">
                             <input class="form-check-label" type="radio" name="jenis_kelamin" id="perempuan"
-                                value="L">
+                                value="L" checked>
                             <label class="form-check-label" for="laki_laki">Laki Laki</label>
                         </div>
 
@@ -75,8 +75,7 @@ dump($errors);
 
                     <div class="form-group">
                         <label for="alamat">Alamat</label>
-                        <textarea class="form-control" name="alamat" id="alamat" rows="3">
-                        </textarea>
+                        <textarea class="form-control" name="alamat" id="alamat" rows="3"></textarea>
 
                         <button type="submit" class="btn btn-primary mb-2">Daftar</button>
                     </div>

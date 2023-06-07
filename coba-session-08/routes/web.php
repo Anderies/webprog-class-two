@@ -20,11 +20,12 @@ use Illuminate\Support\Facades\Route;
 // });
 
 // Explain Form
-// Route::get('/', [MahasiswaController::class, 'index']);
+Route::get('/', [MahasiswaController::class, 'index']);
 Route::post('/proses-form', [MahasiswaController::class, 'prosesForm']);
 
 
 // CRUD
+// Route::redirect('', '/mahasiswas');
 Route::get('/mahasiswas', [MahasiswaController::class, 'indexTwo'])->name('mahasiswas.index');
 Route::get('/mahasiswas/create', [MahasiswaController::class, 'create'])->name('mahasiswas.create');
 Route::post('/mahasiswas', [MahasiswaController::class, 'store'])->name('mahasiswas.store');
