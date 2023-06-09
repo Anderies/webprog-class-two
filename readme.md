@@ -24,6 +24,7 @@
 ### 2. Requirements before Running Project
 1. Make sure to copy env.example file by
 ```
+test
 Windows:
 copy .env.example .env
 Linux/Mac:
